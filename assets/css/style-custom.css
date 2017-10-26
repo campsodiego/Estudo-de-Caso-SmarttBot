@@ -1,0 +1,113 @@
+/* HEADER */
+.header {
+	@import url(https://fonts.google.com/specimen/Source+Sans+Pro);
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 20px;
+}
+.header .navbar-custom {
+	background-color: #fafafa;
+	height: 114px !important;
+}
+
+.header .navbar-collapse-custom {
+	margin-top: 30px;
+}
+
+.navbar-collapse-custom a:hover {
+	color: #00a59d;
+}
+
+/* BODY */
+body {
+	@import url(https://fonts.google.com/specimen/Source+Sans+Pro);
+	font-family: 'Source Sans Pro', sans-serif;
+}
+.body .titulo h1 {
+	color: #77909a;
+}
+.body .entrelinha {
+	min-height: 20px;
+}
+
+.conteudo {
+	background-color: #f4efe9; 
+	min-height: 368px;
+}
+.conteudo img{
+	margin-left: -15px;
+    margin-top: -90px;
+}
+
+.conteudo h4 {
+	color: #77909a;
+}
+
+.alinhador {
+	margin-top: 80px;
+}
+
+.text-box {
+	background-color: #2e7ea5;
+    height: 90px;
+    z-index: 99;
+    width: 100%;
+    bottom: -279px;
+    border-radius: 5px;
+    color: #e1e2e1;
+}
+
+.col-custom {
+	margin-top: 10px;
+}
+
+.box-img img{
+	width: 100%;
+}
+
+.btn-custom {
+	margin-right: 16px;
+    margin-top: -43px;
+}
+
+.ul-custom li{
+	margin-left: 15px;
+}
+
+.nav-pg3 {
+	margin-bottom: 0px;
+}
+
+.main-box {
+	background-color: #fff;
+    margin-top: -44px;
+    text-align: center;
+}
+
+.main-box .text {
+	margin-bottom: 30px;
+}
+
+.graphics {
+	background-color: #f4efe9;
+	padding-bottom: 30px;
+}
+
+.graphics .titulo h1 {
+	text-align: center;
+}
+
+.details {
+	text-align: center;
+}
+
+.details img{
+	margin: 0 auto;
+}
+
+.products {
+	padding-bottom: 50px;
+}
+
+.products .titulo h1 {
+	text-align: center;
+}
